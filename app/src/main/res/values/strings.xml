@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medicinecalculator</string>
+    <string-array name="med_array">
+        <item>NO data</item>
+        <item>Please register data</item>
+        <item>or change mode once</item>
+    </string-array>
+</resources>
