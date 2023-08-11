@@ -1,3 +1,0 @@
-# Medicinecalculator
-動物病院での処方薬代金計算に利用するAndroidアプリケーション
-
