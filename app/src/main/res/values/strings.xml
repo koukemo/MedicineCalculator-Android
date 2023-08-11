@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Medicinecalculator</string>
+    <string name="app_name">MedicineCalculator</string>
     <string-array name="med_array">
         <item>NO data</item>
         <item>Please register data</item>
